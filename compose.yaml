@@ -8,5 +8,6 @@ services:
       - "5173:5173"
     volumes:
       - ./front:/app/front
-      - ./front/node_modules:/app/front/node_modules
     tty: "true"
+    working_dir: /app/front
+    command: bash -c "npm install && npm run dev"
