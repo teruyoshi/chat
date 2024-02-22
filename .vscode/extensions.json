@@ -9,6 +9,16 @@
         "formulahendry.auto-close-tag",
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
-        "planbcoding.vscode-react-refactor"
+        "planbcoding.vscode-react-refactor",
+        "streetsidesoftware.code-spell-checker",
+        "hediet.vscode-drawio",
+        "editorconfig.editorconfig",
+        "usernamehw.errorlens",
+        "grapecity.gc-excelviewer",
+        "oderwat.indent-rainbow",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "wayou.vscode-todo-highlight",
+        "gruntfuggly.todo-tree"
     ]
 }
