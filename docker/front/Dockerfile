@@ -27,4 +27,4 @@ WORKDIR /app/front
 ENV PATH=/app/front/node_modules/.bin:$PATH
 RUN npm install --only=development && npm cache clean --force
 ENTRYPOINT ["/usr/bin/tini", "--"]
-CMD ["npm", "run", "dev"]
+CMD ["/bin/sh", "-c", "npm install && npm run dev"]
