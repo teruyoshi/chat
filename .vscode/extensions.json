@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-ja",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-azuretools.vscode-docker",
+        "vscode-icons-team.vscode-icons",
+        "ms-vsliveshare.vsliveshare",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "planbcoding.vscode-react-refactor"
+    ]
+}
