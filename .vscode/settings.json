@@ -1,0 +1,35 @@
+{
+    "debug.inlineValues": "on",
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.openDebug": "openOnSessionStart",
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.dragAndDrop": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.showFoldingControls": "always",
+    "editor.tabSize": 2,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?　、。！？「」【】『』（）",
+    "editor.wordWrap": "on",
+    "explorer.incrementalNaming": "smart",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "search.showLineNumbers": true,
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.copyOnSelection": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.enablePreview": false,
+    "[csv]": {
+        "editor.wordWrap": "off"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[log]": {
+        "editor.wordWrap": "off"
+    }
+}
